@@ -1,3 +1,2 @@
-# LearningCpp
-
-A repo containing various C++ projects I have done over the years. 
+# LearningCPlusPlus
+Various programs I have written when I was learning C++
